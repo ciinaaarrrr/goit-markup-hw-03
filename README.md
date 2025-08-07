@@ -17,3 +17,12 @@ JuniorKabakistan
 Çınar Kabak
 
 -- Gerekli düzeltmeler yapıldı background color olması gereken yerler eklendi p etiketinin font size 16px olarak değiştirildi.
+
+# goit-markup-hw-03
+
+Ödev 1 ve Ödev 2 de yapılan tasarımda herhangi bir düzenleme yapmadığımı farkettim ve okuması kolay bir tasarım için
+tamamı düzenlendi "BODY" Öğesine bilerek bir arka plan rengi atadım ki beyaz olan kısımlar daha fazla belli olsun
+figmaya uyarak çalıştım gözümden kaçan biryer olmamıştır umarım teşekkürler.
+
+JuniorKabakistan
+Çınar Kabak
