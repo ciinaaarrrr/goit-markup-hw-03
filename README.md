@@ -24,5 +24,7 @@ JuniorKabakistan
 tamamı düzenlendi "BODY" Öğesine bilerek bir arka plan rengi atadım ki beyaz olan kısımlar daha fazla belli olsun
 figmaya uyarak çalıştım gözümden kaçan biryer olmamıştır umarım teşekkürler.
 
+!!! GEREKLİ DÜZELTMELER YAPILDI GEREKSİZ OLAN WİDTH ETİKETLERİ KALDIRILDI !!!
+
 JuniorKabakistan
 Çınar Kabak

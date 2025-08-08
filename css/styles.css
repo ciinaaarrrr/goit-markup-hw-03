@@ -64,7 +64,6 @@ li {
 
 /* NAV HEADER BAŞLANGIC*/
 .menu {
-  width: 1158px;
   display: flex;
   height: 72px;
   background-color: #fff;
@@ -141,7 +140,6 @@ li {
 .main-header {
   display: flex;
   flex-direction: column;
-  width: 1158px;
   padding-top: 120px;
   padding-bottom: 120px;
   background-color: #2e2f42;
@@ -183,7 +181,6 @@ li {
   display: flex;
   text-align: center;
   background-color: #f4f4fd;
-  width: 1158px;
   padding-left: 37px;
   padding-top: 120px;
   padding-bottom: 120px;
@@ -216,7 +213,6 @@ li {
 .our-portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
-  width: 1158px;
   background-color: #fff;
 }
 
